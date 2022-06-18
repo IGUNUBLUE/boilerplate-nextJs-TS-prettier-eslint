@@ -1,6 +1,6 @@
 # boilerplate-nextJs-TS-prettier-eslint
 #### STEP ONE:
-clone the repositorie.
+clone the repository.
 ```terminal
 git clone https://github.com/IGUNUBLUE/boilerplate-nextJs-TS-prettier-eslint.git
 ```
