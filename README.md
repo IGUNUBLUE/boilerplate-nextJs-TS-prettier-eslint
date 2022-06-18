@@ -9,5 +9,5 @@ run this command in the root folder project.
 ```terminal
 yarn install
 ```
-#### STEP THREE
+#### STEP THREE:
 HAPPY CODING!!
