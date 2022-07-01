@@ -2,11 +2,14 @@
   "name": "boilerplate",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "lenin garizabalo",
+    "url": "https://lenin-agc.com"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
     "postinstall": "husky install"
   },
   "dependencies": {
