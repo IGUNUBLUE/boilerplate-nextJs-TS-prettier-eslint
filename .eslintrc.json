@@ -20,11 +20,10 @@
   },
   "plugins": ["react", "@typescript-eslint"],
   "rules": {
-		"prefer-const": "off",
+    "prefer-const": "off",
     "react/react-in-jsx-scope": "off",
-		"@typescript-eslint/no-unused-vars": "error",
+    "@typescript-eslint/no-unused-vars": "error",
     "@typescript-eslint/no-explicit-any": "error",
-		"space-before-function-paren": "error",
     "semi": ["error", "always"],
     "indent": ["error", 2]
   }
